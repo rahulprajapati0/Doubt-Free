@@ -1,4 +1,4 @@
-<h1 style="color: #4CAF50;">Doubtfree: Empowering the Coders of Tomorrow</h1>
+<h1 style="color: #4CAF50;">Doubtfree: Empowering the Coders of Tomorrow to CODE, CREATE , CONQUER !!!</h1>
 
 <p>Welcome to <strong>Doubtfree</strong> – your ultimate coding companion! Our platform is designed to offer students dynamic coding courses, instant doubt resolution, a feature-rich code playground, and much more.</p>
 
